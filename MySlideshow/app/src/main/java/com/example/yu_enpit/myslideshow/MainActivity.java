@@ -51,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public void close() throws SecurityException {
-
         }
     };
 
