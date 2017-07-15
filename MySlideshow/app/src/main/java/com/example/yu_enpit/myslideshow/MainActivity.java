@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     Timer mTimer = new Timer();
     TimerTask mTimerTask = new MainTimerTask();
-    Handler mHandler = new Handler() {
+    Handler mHandler = new Handler(){
         @Override
         public void publish(LogRecord logRecord) {
 
