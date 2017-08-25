@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         public void publish(LogRecord logRecord) {
 
         }
-
+//
         @Override
         public void flush() {
 
